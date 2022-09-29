@@ -96,6 +96,7 @@ function App() {
      <button className='py-3 px-4 bg-violet-500 houver:bg-violet-700 text-white rounded flex items-center gap-3'>
      <MagnifyingGlass size={24}/>
      Publicar Anúncio
+     ola gente
    </button>
 
   </div>
